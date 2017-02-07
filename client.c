@@ -1,8 +1,7 @@
 /** 
     Title: client.c
-    Authors: Felipe Alves e Marcelo Linck
-    e-mails: felipe.alves@acad.pucrs.br
-             marcelo.linck@acad.pucrs.br
+    Authors: Marcelo Linck
+    e-mails: marcelo.linck@acad.pucrs.br
              
 
     Version: 1.2
